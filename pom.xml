@@ -75,7 +75,7 @@
 
 
 	<modules>
-		<module>oauth-legacy/oauth-resource-server-legacy-2</module>
+		<!--<module>oauth-legacy/oauth-resource-server-legacy-2</module>
 		<module>oauth-legacy/oauth-resource-server-legacy-1</module>
 		<module>oauth-rest/oauth-resource-server</module>
 		<module>oauth-jwt/jwt-resource-server</module>
@@ -88,7 +88,7 @@
 		<module>oauth-legacy/oauth-ui-password-angularjs-legacy</module>
        
         <module>clients-SPA-legacy/clients-js-only-react-legacy</module>
-        <module>clients-SPA-legacy/oauth-resource-server-auth0-legacy</module>
+        <module>clients-SPA-legacy/oauth-resource-server-auth0-legacy</module>-->
 
 		<module>oauth-rest/oauth-authorization-server</module>
 		<module>oauth-legacy/oauth-authorization-server-legacy</module>
